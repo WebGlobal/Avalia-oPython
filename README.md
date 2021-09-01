@@ -1,7 +1,7 @@
 # Avaliação Python
 Avaliação de seleção de candidatos ao cargo de programador Python
 
-###1) Spider / Web Crawlwer
+### 1) Spider / Web Crawlwer
 
 		Web Scrapping, é uma forma de mineração que permite a extração de dados
 		de sites da web convertendo-os em informação estruturada. O tipo mais
@@ -28,7 +28,7 @@ Avaliação de seleção de candidatos ao cargo de programador Python
 		.
 		.
 
-###2) Scrapper
+### 2) Scrapper
 
 	Um web crawler ou spider, é uma programa de computador, ou robô,
 	que navega por sites da internet de forma metódica e automatizada.
