@@ -7,7 +7,7 @@ Avaliação de seleção de candidatos ao cargo de programador Python
 
 *O principal propósito de um Web Crawler é fazer o rastreamento de novas páginas e indexá-las. Em geral, ele começa com uma lista de URLs para visitar (páginas-chave ou sementes), e à medida que o *crawler* visita essas URLs, ele identifica e extrai todos os *links* contidos da página e os armazena em uma lista.*
 
-**O seu primeiro desafio consiste na construção de um web crawler implementando em Python, que seja capaz de identificar e indexar um mínimo de 250 URLs dos produtos ofertados pelo site da [`Droga Raia`](http://www.drogaraia.com.br/):**
+**O seu primeiro desafio consiste na construção de um web crawler implementando em Python, que seja capaz de identificar e indexar um mínimo de 250 URLs dos produtos ofertados pelo site da [`DrogaRaia`](http://www.drogaraia.com.br/):**
 
 ```
 http://www.drogaraia.com.br/
