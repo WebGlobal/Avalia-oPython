@@ -56,6 +56,6 @@ Nome="Kit Complexo Vitamínico Ômega 3 1000mg " Preco=R$98.49 SKU=73113
 Nome="Choco Soy Pops Banana Passa Coberta com Chocolate com 40g" Preco=R$8.05 SKU=33851
 ```
 
-🍀 *Boa sorte!* 🍀
+🍀 *Boa Sorte!* 🍀
 
 ![WebGlobal](https://webglobal.com.br/wp-content/uploads/2016/12/Logo_-_WebGlobal_-_.png)
