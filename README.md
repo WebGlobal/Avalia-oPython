@@ -39,9 +39,9 @@ https://www.drogaraia.com.br/omega-3-kit-catarinense-nutricacao-1000mg-2-fracos-
 
 ## 🕸 Web Scrapping
 
-*[`Web Scrapping`](http://www.drogaraia.com.br/), é uma forma de [`mineração de dados`](https://pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_de_dados) que permite a extração de dados de sites da web convertendo-os em informação estruturada. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa. Contudo, essa técnica geralmente é feita através de um software que simula uma navegação humana e extraindo as informações de interesse.*
+*[`Web Scrapping`](https://pt.wikipedia.org/wiki/Coleta_de_dados_web), é uma forma de [`mineração de dados`](https://pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_de_dados) que permite a extração de dados de sites da web convertendo-os em informação estruturada. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa. Contudo, essa técnica geralmente é feita através de um software que simula uma navegação humana e extraindo as informações de interesse.*
 
-**Seu segundo desafio é construir um Web Scrapper em linguagem Python capaz de extrair a `Descrição`, o `Preço` e o código `SKU` de cada um dos produtos indexados em um aquivo texto, gerado pelo primeiro desafio.**
+**Seu segundo desafio é construir um Web Scrapper em linguagem Python capaz de extrair a `Descrição`, o `Preço` e o código `SKU` de cada um dos produtos indexados no desafio anterior.**
 
 Exemplo de Saída Esperada:
 
