@@ -7,7 +7,7 @@ Um Web Crawler ou spider, é uma programa de computador, ou robô, que navega po
 
 O principal propósito de um Web Crawler é fazer o rastreamento de novas páginas e indexá-las. Em geral, ele começa com uma lista de URLs para visitar (páginas-chave ou sementes), e à medida que o crawler visita essas URLs, ele identifica e extrai todos os links da página e os armazena em uma lista.
 
-O seu primeiro desafio consiste na construção de um web crawler implementando em Python, que seja capaz de identificar e indexar um mínimo de 250 URLs dos produtos ofertados pelo site da Droga Raia:
+**O seu primeiro desafio consiste na construção de um web crawler implementando em Python, que seja capaz de identificar e indexar um mínimo de 250 URLs dos produtos ofertados pelo site da Droga Raia:**
 
 ```
 http://www.drogaraia.com.br/
@@ -41,7 +41,7 @@ https://www.drogaraia.com.br/omega-3-kit-catarinense-nutricacao-1000mg-2-fracos-
 
 Web Scrapping, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada. O tipo mais 	básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa. Contudo, essa técnica geralmente é feita através de um software que simula uma navegação humana e extraindo as informações de interesse.
 
-Seu segundo desafio é construir um Web Scrapper em lingugem Python capaz de extrair a Descrição, o Preço e o código SKU de cada um dos produtos indexados em um aquivo texto, gerado pelo primeiro desafio.
+**Seu segundo desafio é construir um Web Scrapper em lingugem Python capaz de extrair a Descrição, o Preço e o código SKU de cada um dos produtos indexados em um aquivo texto, gerado pelo primeiro desafio.**
 
 Exemplo de Saída Esperada:
 
