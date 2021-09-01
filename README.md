@@ -1,7 +1,7 @@
 # Avaliação Python
 Avaliação de seleção de candidatos ao cargo de programador Python
 
-### 1) Spider / Web Crawler
+### 🕷 Spider / Web Crawler
 
 Um Web Crawler ou spider, é uma programa de computador, ou robô, que navega por sites da internet de forma metódica e automatizada.
 
@@ -37,7 +37,7 @@ https://www.drogaraia.com.br/bio-c-vitamina-1g-30-comprimidos-efervecentes.html
 https://www.drogaraia.com.br/omega-3-kit-catarinense-nutricacao-1000mg-2-fracos-com-120-capsulas-cada-1-frasco-com-60-capsulas-gratis.html
 ```
 
-### 2) Web Scrapping
+### 🕸 Web Scrapping
 
 Web Scrapping, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada. O tipo mais 	básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa. Contudo, essa técnica geralmente é feita através de um software que simula uma navegação humana e extraindo as informações de interesse.
 
