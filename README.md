@@ -58,4 +58,4 @@ Nome="Choco Soy Pops Banana Passa Coberta com Chocolate com 40g" Preco=R$8.05 SK
 
 🍀 *Boa Sorte!* 🍀
 
-![WebGlobal](https://webglobal.com.br/wp-content/uploads/2016/12/Logo_-_WebGlobal_-_.png)
+![WebGlobal](https://webglobal.com.br/wp-content/uploads/2022/08/WebGlobal-logo-200.png)
